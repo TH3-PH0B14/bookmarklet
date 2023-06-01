@@ -7,7 +7,7 @@ javascript:(function() {
           <meta http-equiv="X-UA-Compatible" content="IE=edge">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
           <title>Usr.Script</title>
-          <link rel="stylesheet" href="style.css">
+          <link rel="stylesheet" href="https://raw.githubusercontent.com/TH3-PH0B14/bookmarklet/main/usrscript/style.css">
           <!-- put the github style sheet -->
       </head>
       <body>
