@@ -1,4 +1,4 @@
-(function() {
+javascript:(function() {
     var htmlpop = `
       <!DOCTYPE html>
       <html lang="en">
@@ -62,4 +62,5 @@
     popupWindow.clearError = function() {
       popupWindow.document.getElementById('errorBox-js').innerHTML = '';
     };
-})();
+  })();
+  
